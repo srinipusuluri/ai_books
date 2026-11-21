@@ -53,10 +53,12 @@ Each book picks one doorway into AI, so you can go from *"What is AI?"* to *"I c
 | 1 | 🤖 **AI Simplified** | The foundations of AI, explained clearly from the ground up | [📖 Open PDF](https://srinipusuluri.github.io/ai_books/AI_Simplified_Pusuluri.pdf) |
 | 2 | 📘 **AI Glossary Simplified** | Key AI terms and jargon decoded in plain language | [📖 Open PDF](https://srinipusuluri.github.io/ai_books/AIGlossary_Simplified_Pusuluri.pdf) |
 | 3 | 🐍 **Python Simplified** | The programming language of AI, learned step by step | [📖 Open PDF](https://srinipusuluri.github.io/ai_books/Python_Simplified_Pusuluri.pdf) |
-| 4 | 🔎 **RAG Simplified** | How AI looks things up: retrieval-augmented generation made approachable | [📖 Open PDF](https://srinipusuluri.github.io/ai_books/RAG_Simplified_Pusuluri.pdf) |
-| 5 | 🧠 **Claude Simplified** | Working with Claude, Anthropic's AI assistant, step by step | [📖 Open PDF](https://srinipusuluri.github.io/ai_books/Claude_Simplified_Pusuluri.pdf) |
-| 6 | ☁️ **AWS Simplified** | Cloud and AI services on Amazon Web Services, made approachable | [📖 Open PDF](https://srinipusuluri.github.io/ai_books/AWS_Simplified_Pusuluri.pdf) |
-| 7 | ⚡ **Salesforce AI Simplified** | AI inside Salesforce and CRM, explained clearly | [📖 Open PDF](https://srinipusuluri.github.io/ai_books/SalesforceAI_Simplified_Pusuluri.pdf) |
+| 4 | 🦜 **LangChain Simplified** | Building AI apps by chaining models, prompts, and tools together | [📖 Open PDF](https://srinipusuluri.github.io/ai_books/LangChain_Simplified_Pusuluri.pdf) |
+| 5 | 🔎 **RAG Simplified** | How AI looks things up: retrieval-augmented generation made approachable | [📖 Open PDF](https://srinipusuluri.github.io/ai_books/RAG_Simplified_Pusuluri.pdf) |
+| 6 | 🔌 **MCP Simplified** | Model Context Protocol: how AI connects to tools and data | [📖 Open PDF](https://srinipusuluri.github.io/ai_books/MCP_Simplified_Pusuluri.pdf) |
+| 7 | 🧠 **Claude Simplified** | Working with Claude, Anthropic's AI assistant, step by step | [📖 Open PDF](https://srinipusuluri.github.io/ai_books/Claude_Simplified_Pusuluri.pdf) |
+| 8 | ☁️ **AWS Simplified** | Cloud and AI services on Amazon Web Services, made approachable | [📖 Open PDF](https://srinipusuluri.github.io/ai_books/AWS_Simplified_Pusuluri.pdf) |
+| 9 | ⚡ **Salesforce AI Simplified** | AI inside Salesforce and CRM, explained clearly | [📖 Open PDF](https://srinipusuluri.github.io/ai_books/SalesforceAI_Simplified_Pusuluri.pdf) |
 
 </div>
 
@@ -65,7 +67,9 @@ Each book picks one doorway into AI, so you can go from *"What is AI?"* to *"I c
 - 🤖 AI Simplified: https://srinipusuluri.github.io/ai_books/AI_Simplified_Pusuluri.pdf
 - 📘 AI Glossary Simplified: https://srinipusuluri.github.io/ai_books/AIGlossary_Simplified_Pusuluri.pdf
 - 🐍 Python Simplified: https://srinipusuluri.github.io/ai_books/Python_Simplified_Pusuluri.pdf
+- 🦜 LangChain Simplified: https://srinipusuluri.github.io/ai_books/LangChain_Simplified_Pusuluri.pdf
 - 🔎 RAG Simplified: https://srinipusuluri.github.io/ai_books/RAG_Simplified_Pusuluri.pdf
+- 🔌 MCP Simplified: https://srinipusuluri.github.io/ai_books/MCP_Simplified_Pusuluri.pdf
 - 🧠 Claude Simplified: https://srinipusuluri.github.io/ai_books/Claude_Simplified_Pusuluri.pdf
 - ☁️ AWS Simplified: https://srinipusuluri.github.io/ai_books/AWS_Simplified_Pusuluri.pdf
 - ⚡ Salesforce AI Simplified: https://srinipusuluri.github.io/ai_books/SalesforceAI_Simplified_Pusuluri.pdf

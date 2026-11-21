@@ -62,6 +62,7 @@ Each book picks one doorway into AI, so you can go from *"What is AI?"* to *"I c
 | 10 | 🧠 **Claude Simplified** | Working with Claude, Anthropic's AI assistant, step by step | [📖 Open PDF](https://srinipusuluri.github.io/ai_books/Claude_Simplified_Pusuluri.pdf) |
 | 11 | ☁️ **AWS Simplified** | Cloud and AI services on Amazon Web Services, made approachable | [📖 Open PDF](https://srinipusuluri.github.io/ai_books/AWS_Simplified_Pusuluri.pdf) |
 | 12 | ⚡ **Salesforce AI Simplified** | AI inside Salesforce and CRM, explained clearly | [📖 Open PDF](https://srinipusuluri.github.io/ai_books/SalesforceAI_Simplified_Pusuluri.pdf) |
+| 13 | 🎯 **AI Engineer Interview Simplified** | Master all the topics above and you're ready to become an AI engineer: interview questions and answers that tie it together | [📖 Open PDF](https://srinipusuluri.github.io/ai_books/AIEngineer_Interview_Simplified_Pusuluri.pdf) |
 
 </div>
 
@@ -79,6 +80,7 @@ Each book picks one doorway into AI, so you can go from *"What is AI?"* to *"I c
 - 🧠 Claude Simplified: https://srinipusuluri.github.io/ai_books/Claude_Simplified_Pusuluri.pdf
 - ☁️ AWS Simplified: https://srinipusuluri.github.io/ai_books/AWS_Simplified_Pusuluri.pdf
 - ⚡ Salesforce AI Simplified: https://srinipusuluri.github.io/ai_books/SalesforceAI_Simplified_Pusuluri.pdf
+- 🎯 AI Engineer Interview Simplified: https://srinipusuluri.github.io/ai_books/AIEngineer_Interview_Simplified_Pusuluri.pdf
 
 ---
 

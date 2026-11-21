@@ -64,6 +64,7 @@ Each book picks one doorway into AI, so you can go from *"What is AI?"* to *"I c
 | 12 | ⚡ **Salesforce AI Simplified** | AI inside Salesforce and CRM, explained clearly | [📖 Open PDF](https://srinipusuluri.github.io/ai_books/SalesforceAI_Simplified_Pusuluri.pdf) |
 | 13 | 🔁 **AI/ML/LLM Ops Simplified** | Taking AI from notebook to production: deploying, monitoring, and operating ML and LLM systems | [📖 Open PDF](https://srinipusuluri.github.io/ai_books/AI_ML_LLM_Ops_Simplified_Pusuluripdf.pdf) |
 | 14 | 🎯 **AI Engineer Interview Simplified** | Master all the topics above and you're ready to become an AI engineer: interview questions and answers that tie it together | [📖 Open PDF](https://srinipusuluri.github.io/ai_books/AIEngineer_Interview_Simplified_Pusuluri.pdf) |
+| 15 | 🗺️ **AI Landscape Simplified** | A big-picture map of the AI world: the key areas, tools, and players and how they fit together | [📖 Open PDF](https://srinipusuluri.github.io/ai_books/AI_Landscape_Simplified_Pusuluri.pdf) |
 
 </div>
 
@@ -82,7 +83,8 @@ Each book picks one doorway into AI, so you can go from *"What is AI?"* to *"I c
 - ☁️ AWS Simplified: https://srinipusuluri.github.io/ai_books/AWS_Simplified_Pusuluri.pdf
 - ⚡ Salesforce AI Simplified: https://srinipusuluri.github.io/ai_books/SalesforceAI_Simplified_Pusuluri.pdf
 - 🔁 AI/ML/LLM Ops Simplified: https://srinipusuluri.github.io/ai_books/AI_ML_LLM_Ops_Simplified_Pusuluripdf.pdf
-- - 🎯 AI Engineer Interview Simplified: https://srinipusuluri.github.io/ai_books/AIEngineer_Interview_Simplified_Pusuluri.pdf
+- 🎯 AI Engineer Interview Simplified: https://srinipusuluri.github.io/ai_books/AIEngineer_Interview_Simplified_Pusuluri.pdf
+- 🗺️ AI Landscape Simplified: https://srinipusuluri.github.io/ai_books/AI_Landscape_Simplified_Pusuluri.pdf
 
 ---
 

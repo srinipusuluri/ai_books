@@ -51,16 +51,24 @@ Each book picks one doorway into AI, so you can go from *"What is AI?"* to *"I c
 | # | Book | What You'll Learn | Read Now |
 |:-:|:-----|:------------------|:--------:|
 | 1 | 🤖 **AI Simplified** | The foundations of AI, explained clearly from the ground up | [📖 Open PDF](https://srinipusuluri.github.io/ai_books/AI_Simplified_Pusuluri.pdf) |
-| 2 | ☁️ **AWS Simplified** | Cloud and AI services on Amazon Web Services, made approachable | [📖 Open PDF](https://srinipusuluri.github.io/ai_books/AWS_Simplified_Pusuluri.pdf) |
-| 3 | 🧠 **Claude Simplified** | Working with Claude, Anthropic's AI assistant, step by step | [📖 Open PDF](https://srinipusuluri.github.io/ai_books/Claude_Simplified_Pusuluri.pdf) |
+| 2 | 📘 **AI Glossary Simplified** | Key AI terms and jargon decoded in plain language | [📖 Open PDF](https://srinipusuluri.github.io/ai_books/AIGlossary_Simplified_Pusuluri.pdf) |
+| 3 | 🐍 **Python Simplified** | The programming language of AI, learned step by step | [📖 Open PDF](https://srinipusuluri.github.io/ai_books/Python_Simplified_Pusuluri.pdf) |
+| 4 | 🔎 **RAG Simplified** | How AI looks things up: retrieval-augmented generation made approachable | [📖 Open PDF](https://srinipusuluri.github.io/ai_books/RAG_Simplified_Pusuluri.pdf) |
+| 5 | 🧠 **Claude Simplified** | Working with Claude, Anthropic's AI assistant, step by step | [📖 Open PDF](https://srinipusuluri.github.io/ai_books/Claude_Simplified_Pusuluri.pdf) |
+| 6 | ☁️ **AWS Simplified** | Cloud and AI services on Amazon Web Services, made approachable | [📖 Open PDF](https://srinipusuluri.github.io/ai_books/AWS_Simplified_Pusuluri.pdf) |
+| 7 | ⚡ **Salesforce AI Simplified** | AI inside Salesforce and CRM, explained clearly | [📖 Open PDF](https://srinipusuluri.github.io/ai_books/SalesforceAI_Simplified_Pusuluri.pdf) |
 
 </div>
 
 **Direct links**
 
 - 🤖 AI Simplified: https://srinipusuluri.github.io/ai_books/AI_Simplified_Pusuluri.pdf
-- ☁️ AWS Simplified: https://srinipusuluri.github.io/ai_books/AWS_Simplified_Pusuluri.pdf
+- 📘 AI Glossary Simplified: https://srinipusuluri.github.io/ai_books/AIGlossary_Simplified_Pusuluri.pdf
+- 🐍 Python Simplified: https://srinipusuluri.github.io/ai_books/Python_Simplified_Pusuluri.pdf
+- 🔎 RAG Simplified: https://srinipusuluri.github.io/ai_books/RAG_Simplified_Pusuluri.pdf
 - 🧠 Claude Simplified: https://srinipusuluri.github.io/ai_books/Claude_Simplified_Pusuluri.pdf
+- ☁️ AWS Simplified: https://srinipusuluri.github.io/ai_books/AWS_Simplified_Pusuluri.pdf
+- ⚡ Salesforce AI Simplified: https://srinipusuluri.github.io/ai_books/SalesforceAI_Simplified_Pusuluri.pdf
 
 ---
 
